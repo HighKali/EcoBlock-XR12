@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "📦 Packaging e pubblicazione EcoBlock XR12..."
 
 # 1. Definizione file e cartelle
