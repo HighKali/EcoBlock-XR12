@@ -9,6 +9,3 @@ def notify():
         print("[EcoBlock] ⚠️ Errore notifica:", e)
 if __name__ == "__main__":
     notify()
-=======
-404: Not Found
->>>>>>> 453b210ef45cdc9b7ddb9cbb66317564c2df92f9
